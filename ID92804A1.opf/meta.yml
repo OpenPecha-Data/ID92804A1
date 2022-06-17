@@ -1,0 +1,103 @@
+id: ID92804A1
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-17T14:01:31.511912'
+last_modified: '2022-06-17T14:01:31.511922'
+parser: null
+source_metadata:
+  title: Sang Offering
+  language: fr
+  description: 'Texts on the subject of Sang (bsang/bsangs) or Purificatory Incense
+    Smoke Offering:'
+  volume:
+    f9B95:
+      title: A Guide to the Practice of Sang
+      base_file: f9B95.txt
+      order: 1
+      parent: Commentaries
+    fE170:
+      title: The Gentle Rain of Benefit and Joy - An Explanation of the Practice of
+        Sang Offering
+      base_file: fE170.txt
+      order: 2
+      parent: Commentaries
+    f5AF2:
+      title: Yarlha Shampo Sang Offering
+      base_file: f5AF2.txt
+      order: 3
+      parent: Dharma Protectors
+    f9145:
+      title: Short Sang Offering to Kurukullā
+      base_file: f9145.txt
+      order: 4
+      parent: Kurukullā
+    fB2BA:
+      title: 'The Lotus Net: A Sang Offering to the Mighty Lotus Ḍākinī, Kurukullā'
+      base_file: fB2BA.txt
+      order: 5
+      parent: Kurukullā
+    fB06B:
+      title: 'The Concise Cleansing Offering from The Guru’s Heart Practice: Dispelling
+        All Obstacles on the Path'
+      base_file: fB06B.txt
+      order: 6
+      parent: Rituals
+    fF788:
+      title: Sang Offering to Yellow Jambhala
+      base_file: fF788.txt
+      order: 7
+      parent: Rituals
+    f9B8B:
+      title: Brief Smoke Offering to the Great Lion of the World
+      base_file: f9B8B.txt
+      order: 8
+      parent: Rituals
+    f6A7B:
+      title: 'Lasel Chenmo: A Sang Offering to the Nāgas'
+      base_file: f6A7B.txt
+      order: 9
+      parent: Rituals
+    fD703:
+      title: Brief Sang Offering
+      base_file: fD703.txt
+      order: 10
+      parent: Rituals
+    f0488:
+      title: Brief Sang Offering to Purify Contamination
+      base_file: f0488.txt
+      order: 11
+      parent: Rituals
+    f2A23:
+      title: 'Divine Blue Water: A Contamination Purifying Smoke Offering by the Great
+        Master Padmasambhava'
+      base_file: f2A23.txt
+      order: 12
+      parent: Rituals
+    f4F46:
+      title: Mountain Smoke Offering from The Life-Force Practice of the Vidyādharas
+      base_file: f4F46.txt
+      order: 13
+      parent: Riwo Sangchö
+    fBA2B:
+      title: The Mountain Smoke Offering (Riwo Sangchö)
+      base_file: fBA2B.txt
+      order: 14
+      parent: Riwo Sangchö
+    f8989:
+      title: The Mountain Smoke Offering Arranged for Recitation
+      base_file: f8989.txt
+      order: 15
+      parent: Riwo Sangchö
+    fDADB:
+      title: A Concise Sang Offering to Tārā
+      base_file: fDADB.txt
+      order: 16
+      parent: Tārā
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
